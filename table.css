@@ -1,0 +1,21 @@
+table{
+  width: 50px;
+  text-align: center;
+  box-shadow: 0 4px 12px black;
+
+
+}
+thead{
+    background-color: rgb(245, 234, 219);
+    color: black;
+
+}
+
+body{
+    text-align: center;
+    align-self: center;
+    flex: content;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

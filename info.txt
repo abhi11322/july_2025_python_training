@@ -1,0 +1,14 @@
+steps to create flask and api 
+
+1> python -m venv venv ---to avoid dependences conflict
+2> venv/Scripts/activate
+3> pip install flask and mysql connector
+app.py
+4> from flask import Flask,jsonify,request,render_template
+   from flask_mysqldb import MySQL
+5> app=Flask()
+6>@webapp.route('/')
+  def functions 
+  return sample
+  
+
